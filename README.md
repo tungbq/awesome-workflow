@@ -31,6 +31,7 @@ Explore how popular open-source repositories implement GitHub Action workflows
 | 06  | [grafana/loki](https://github.com/grafana/loki/tree/main/.github/workflows)                                 | `golang`, `helm`, `labeler`, `release`, `security`     |
 | 07  | [helm/helm](https://github.com/helm/helm/tree/main/.github/workflows)                                       | `golang`, `codeql`, `helm`, `stale`, `release`         |
 | 08  | [hashicorp/vault](https://github.com/hashicorp/vault/tree/main/.github/workflows)                           | `golang`, `security`, `labeler`, `changelog`, `nodejs` |
+| 09  | [actions/runner](https://github.com/actions/runner/tree/main/.github/workflows)                             | `bot`, `codeql`, `multi-os`, `linter`, `stale`         |
 
 And more upcoming content...⏩ you can follow this repository to get more up-to-dated content ⭐
 
