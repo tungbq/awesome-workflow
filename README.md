@@ -29,6 +29,7 @@ Explore how popular open-source repositories implement GitHub Action workflows
 | 04  | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow/tree/master/.github/workflows)             | `c++`, `python`, `docker`, `cd`                    |
 | 05  | [docker/compose](https://github.com/docker/compose/tree/main/.github/workflows)                             | `golang`, `docker`, `codecov`, `release`, `cache`  |
 | 06  | [grafana/loki](https://github.com/grafana/loki/tree/main/.github/workflows)                                 | `golang`, `helm`, `labeler`, `release`, `security` |
+| 07  | [helm/helm](https://github.com/helm/helm/tree/main/.github/workflows)                                       | `golang`, `codeql`, `helm`, `stale`, `release`     |
 
 And more upcoming content...⏩ you can follow this repository to get more up-to-dated content ⭐
 
