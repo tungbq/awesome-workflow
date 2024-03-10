@@ -8,6 +8,7 @@
 
 ## Reference GitHub Actions Workflows Repository
 
-| ID  | Workflow                                                                                                    | Area                                            |
-| :-- | :---------------------------------------------------------------------------------------------------------- | :---------------------------------------------- |
-| 01  | [microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo/tree/main/.github/workflows) | `microservices`, `k8s`, `docker`, `helm`, `...` |
+| ID  | Workflow                                                                                                    | Area                                                |
+| :-- | :---------------------------------------------------------------------------------------------------------- | :-------------------------------------------------- |
+| 01  | [microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo/tree/main/.github/workflows) | `microservices`, `k8s`, `docker`, `helm`, `...`     |
+| 02  | [apache/superset](https://github.com/apache/superset/tree/master/.github/workflows)                         | `python`, `k8s`, `docker`, `helm`, `aws`, `release` |
