@@ -6,6 +6,7 @@ on:
     branches: [main]
     paths:
       - 'README.md'
+      - '.github/workflows/ci-link-checker.yml'
 
 jobs:
   linkChecker:
