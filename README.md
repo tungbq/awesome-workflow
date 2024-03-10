@@ -2,6 +2,11 @@
 
 :octocat: Awesome lists about GitHub workflows to automate your development workflow 🥰
 
+## Quickstart for GitHub Actions
+If you are new to GitHub Actions workflows, the following documentation could help you get started:
+- [actions/quickstart](https://docs.github.com/en/actions/quickstart)
+- [actions/learn-github-actions](https://docs.github.com/en/actions/learn-github-actions)
+
 ## Top Github Action Workflows 1️⃣
 
 - [Most installed/starred actrions on Marketplace 🌟](https://github.com/marketplace?category=&type=actions&verification=&query=updated%3A%3E2021-01-01+sort%3Apopularity-desc)
