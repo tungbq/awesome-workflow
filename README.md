@@ -10,7 +10,9 @@ If you are new to GitHub Actions workflows, the following documentation could he
 - [actions/learn-github-actions](https://docs.github.com/en/actions/learn-github-actions)
 
 ## Official Starter Workflow by GitHub
+
 - [actions/starter-workflows](https://github.com/actions/starter-workflows)
+
 ## Top Github Action Workflows 1️⃣
 
 - [Most installed/starred actrions on Marketplace 🌟](https://github.com/marketplace?category=&type=actions&verification=&query=updated%3A%3E2021-01-01+sort%3Apopularity-desc)
@@ -19,14 +21,16 @@ If you are new to GitHub Actions workflows, the following documentation could he
 
 Explore how popular open-source repositories implement GitHub Action workflows
 
-| ID  | Workflow                                                                                                    | Area                                                      |
-| :-- | :---------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------- |
-| 01  | [microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo/tree/main/.github/workflows) | `microservices`, `k8s`, `docker`, `helm`                  |
-| 02  | [apache/superset](https://github.com/apache/superset/tree/master/.github/workflows)                         | `js`, `python`, `k8s`, `docker`, `helm`, `aws`, `release` |
-| 03  | [aws/aws-cdk](https://github.com/aws/aws-cdk/tree/main/.github/workflows)                                   | `label`, `lint`, `auto-approve`, `python`, `js`           |
-| 04  | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow/tree/master/.github/workflows)             | `c++`, `python`, `docker`, `cd`                           |
+| ID  | Workflow                                                                                                    | Area                                              |
+| :-- | :---------------------------------------------------------------------------------------------------------- | :------------------------------------------------ |
+| 01  | [microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo/tree/main/.github/workflows) | `microservices`, `k8s`, `docker`, `helm`          |
+| 02  | [apache/superset](https://github.com/apache/superset/tree/master/.github/workflows)                         | `js`, `python`, `k8s`, `docker`, `aws`, `release` |
+| 03  | [aws/aws-cdk](https://github.com/aws/aws-cdk/tree/main/.github/workflows)                                   | `label`, `lint`, `auto-approve`, `python`, `js`   |
+| 04  | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow/tree/master/.github/workflows)             | `c++`, `python`, `docker`, `cd`                   |
+| 05  | [docker/compose](https://github.com/docker/compose/tree/main/.github/workflows)                             | `golang`, `docker`, `codecov`, `release`, `cache` |
 
 ## Contributing
+
 - See: [CONTRIBUTING.md](./CONTRIBUTING.md)
 - Looking for the issue to work on? Check the list of our open issues [**good first issue**](https://github.com/tungbq/awesome-workflow/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 - Feel free to open a new issue if you want to request more content about GitHub Action workflow
