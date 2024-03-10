@@ -25,3 +25,8 @@ Explore how popular open-source repositories implement GitHub Action workflows
 | 02  | [apache/superset](https://github.com/apache/superset/tree/master/.github/workflows)                         | `js`, `python`, `k8s`, `docker`, `helm`, `aws`, `release` |
 | 03  | [aws/aws-cdk](https://github.com/aws/aws-cdk/tree/main/.github/workflows)                                   | `label`, `lint`, `auto-approve`, `python`, `js`           |
 | 04  | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow/tree/master/.github/workflows)             | `c++`, `python`, `docker`, `cd`                           |
+
+## Contributing
+- See: [CONTRIBUTING.md](./CONTRIBUTING.md)
+- Looking for the issue to work on? Check the list of our open issues [**good first issue**](https://github.com/tungbq/awesome-workflow/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+- Feel free to open a new issue if you want to request more content about GitHub Action workflow
