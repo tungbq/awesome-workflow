@@ -21,13 +21,14 @@ If you are new to GitHub Actions workflows, the following documentation could he
 
 Explore how popular open-source repositories implement GitHub Action workflows
 
-| ID  | Workflow                                                                                                    | Area                                              |
-| :-- | :---------------------------------------------------------------------------------------------------------- | :------------------------------------------------ |
-| 01  | [microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo/tree/main/.github/workflows) | `microservices`, `k8s`, `docker`, `helm`          |
-| 02  | [apache/superset](https://github.com/apache/superset/tree/master/.github/workflows)                         | `js`, `python`, `k8s`, `docker`, `aws`, `release` |
-| 03  | [aws/aws-cdk](https://github.com/aws/aws-cdk/tree/main/.github/workflows)                                   | `label`, `lint`, `auto-approve`, `python`, `js`   |
-| 04  | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow/tree/master/.github/workflows)             | `c++`, `python`, `docker`, `cd`                   |
-| 05  | [docker/compose](https://github.com/docker/compose/tree/main/.github/workflows)                             | `golang`, `docker`, `codecov`, `release`, `cache` |
+| ID  | Workflow                                                                                                    | Area                                               |
+| :-- | :---------------------------------------------------------------------------------------------------------- | :------------------------------------------------- |
+| 01  | [microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo/tree/main/.github/workflows) | `microservices`, `k8s`, `docker`, `helm`           |
+| 02  | [apache/superset](https://github.com/apache/superset/tree/master/.github/workflows)                         | `js`, `python`, `k8s`, `docker`, `aws`, `release`  |
+| 03  | [aws/aws-cdk](https://github.com/aws/aws-cdk/tree/main/.github/workflows)                                   | `label`, `lint`, `auto-approve`, `python`, `js`    |
+| 04  | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow/tree/master/.github/workflows)             | `c++`, `python`, `docker`, `cd`                    |
+| 05  | [docker/compose](https://github.com/docker/compose/tree/main/.github/workflows)                             | `golang`, `docker`, `codecov`, `release`, `cache`  |
+| 06  | [grafana/loki](https://github.com/grafana/loki/tree/main/.github/workflows)                                 | `golang`, `helm`, `labeler`, `release`, `security` |
 
 ## Contributing
 
