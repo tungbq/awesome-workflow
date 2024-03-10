@@ -1,6 +1,6 @@
 # Awesome Workflow [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Awesome lists about GitHub workflows to automate your development workflow 🥰
+:octocat: Awesome lists about GitHub workflows to automate your development workflow 🥰
 
 ## Top Github Action Workflows 1️⃣
 
