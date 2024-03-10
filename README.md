@@ -30,6 +30,8 @@ Explore how popular open-source repositories implement GitHub Action workflows
 | 05  | [docker/compose](https://github.com/docker/compose/tree/main/.github/workflows)                             | `golang`, `docker`, `codecov`, `release`, `cache`  |
 | 06  | [grafana/loki](https://github.com/grafana/loki/tree/main/.github/workflows)                                 | `golang`, `helm`, `labeler`, `release`, `security` |
 
+And more upcoming content...⏩ you can follow this repository to get more up-to-dated content ⭐
+
 ## Contributing
 
 - See: [CONTRIBUTING.md](./CONTRIBUTING.md)
