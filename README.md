@@ -3,7 +3,9 @@
 :octocat: Awesome lists about GitHub workflows to automate your development workflow 🥰
 
 ## Quickstart for GitHub Actions
+
 If you are new to GitHub Actions workflows, the following documentation could help you get started:
+
 - [actions/quickstart](https://docs.github.com/en/actions/quickstart)
 - [actions/learn-github-actions](https://docs.github.com/en/actions/learn-github-actions)
 
@@ -12,10 +14,12 @@ If you are new to GitHub Actions workflows, the following documentation could he
 - [Most installed/starred actrions on Marketplace 🌟](https://github.com/marketplace?category=&type=actions&verification=&query=updated%3A%3E2021-01-01+sort%3Apopularity-desc)
 
 ## Reference GitHub Actions Workflows Repository
+
 Explore how popular open-source repositories implement GitHub Action workflows
 
 | ID  | Workflow                                                                                                    | Area                                                      |
 | :-- | :---------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------- |
-| 01  | [microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo/tree/main/.github/workflows) | `microservices`, `k8s`, `docker`, `helm`, `...`           |
+| 01  | [microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo/tree/main/.github/workflows) | `microservices`, `k8s`, `docker`, `helm`                  |
 | 02  | [apache/superset](https://github.com/apache/superset/tree/master/.github/workflows)                         | `js`, `python`, `k8s`, `docker`, `helm`, `aws`, `release` |
 | 03  | [aws/aws-cdk](https://github.com/aws/aws-cdk/tree/main/.github/workflows)                                   | `label`, `lint`, `auto-approve`, `python`, `js`           |
+| 04  | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow/tree/master/.github/workflows)             | `c++`, `python`, `docker`, `cd`                           |
