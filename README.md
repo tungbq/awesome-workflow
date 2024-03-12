@@ -33,6 +33,7 @@ Explore how popular open-source repositories implement GitHub Action workflows
 | 08  | [hashicorp/vault](https://github.com/hashicorp/vault/tree/main/.github/workflows)                           | `golang`, `security`, `labeler`, `changelog`, `nodejs` |
 | 09  | [actions/runner](https://github.com/actions/runner/tree/main/.github/workflows)                             | `bot`, `codeql`, `multi-os`, `linter`, `stale`         |
 | 10  | [vercel/next.js](https://github.com/vercel/next.js/tree/canary/.github/workflows)                           | `js`, `deploy`, `rust`, `testing`, `multi-os`          |
+| 11  | [curl/curl](https://github.com/curl/curl/tree/master/.github/workflows)                                     | `linux`, `c`, `badwords`, `multi-os`                   |
 
 And more upcoming content...⏩ you can follow this repository to get more up-to-dated content ⭐
 
