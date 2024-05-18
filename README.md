@@ -17,6 +17,9 @@ If you are new to GitHub Actions workflows, the following documentation could he
 
 - [Most installed/starred actrions on Marketplace 🌟](https://github.com/marketplace?category=&type=actions&verification=&query=updated%3A%3E2021-01-01+sort%3Apopularity-desc)
 
+## Context
+- [github-context](https://docs.github.com/en/actions/learn-github-actions/contexts#github-context)
+
 ## Reference GitHub Actions Workflows Repository
 
 Explore how popular open-source repositories implement GitHub Action workflows
