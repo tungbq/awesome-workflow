@@ -37,6 +37,7 @@ Explore how popular open-source repositories implement GitHub Action workflows
 | 09  | [actions/runner](https://github.com/actions/runner/tree/main/.github/workflows)                             | `bot`, `codeql`, `multi-os`, `linter`, `stale`         |
 | 10  | [vercel/next.js](https://github.com/vercel/next.js/tree/canary/.github/workflows)                           | `js`, `deploy`, `rust`, `testing`, `multi-os`          |
 | 11  | [curl/curl](https://github.com/curl/curl/tree/master/.github/workflows)                                     | `linux`, `c`, `badwords`, `multi-os`                   |
+| 12  | [devops-toolkit](https://github.com/tungbq/devops-toolkit/tree/main/.github/workflows)                      | `docker`, `release`, `labeler`, `dockerfile-linter`    |
 
 And more upcoming content...⏩ you can follow this repository to get more up-to-dated content ⭐
 
